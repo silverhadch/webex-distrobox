@@ -37,7 +37,7 @@ This will:
 ## 🚨 Known Issues
 
 ### Screen sharing under Wayland
-Screen sharing is broken under Wayland. To work around this, install [xwaylandvideobridge v0.5.0](https://invent.kde.org/system/xwaylandvideobridge/-/releases/v0.5.0), which includes Webex support. When prompted to share your screen, select the video bridge as the source and it will handle the rest automatically.
+Screen sharing is broken under Wayland. To work around this, install [xwaylandvideobridge v0.5.0](https://invent.kde.org/system/xwaylandvideobridge/-/tags/v0.5.0), which includes Webex support. When prompted to share your screen, select the video bridge as the source and it will handle the rest automatically.
 
 ---
 
