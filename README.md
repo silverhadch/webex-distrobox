@@ -1,5 +1,5 @@
 # Webex in Distrobox
-Run Cisco Webex inside a Distrobox container based on **Ubuntu 24.04**, with environment variables forcing **X11/XWayland** (the native Wayland support of Webex is currently buggy).
+Run Cisco Webex inside a Distrobox container based on **Ubuntu 22.04**, with environment variables forcing **X11/XWayland** (the native Wayland support of Webex is currently buggy).
 
 ## Usage
 
